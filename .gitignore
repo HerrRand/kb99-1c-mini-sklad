@@ -1,0 +1,78 @@
+# --- Системные и IDE-файлы (не специфичные для 1С) ---
+.DS_Store
+Thumbs.db
+desktop.ini
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+
+# --- Служебные папки платформы 1С и временные файлы ---
+1Cv8Log/
+1Cv8Temp/
+1Cv8Tmp/
+/temp/
+/tmp/
+/logs/
+*.log
+*.lgf
+*.lgp
+*.lgs
+*.lst
+*.bak
+*.old
+*.tmp
+
+# --- Файлы баз данных и выгрузок ---
+*.1CD
+*.CD
+*.dt
+*.dt.bak
+
+# --- Бинарные артефакты конфигурации и расширений (не исходники) ---
+# Если храните только XML-исходники, эти бинарные файлы не нужны в Git
+*.cf
+*.cfe
+*.epf
+*.erf
+
+# --- Специфика EDT ---
+.metadata/
+.settings/
+ConfigDumpInfo.xml
+DumpFilesIndex.txt
+
+# --- Конфигурации поставщиков (ParentConfigurations) ---
+src/Configuration/ParentConfigurations.bin
+src/Configuration/ParentConfigurations/**
+
+# --- Кэш и промежуточные файлы сборки ---
+/bin/
+/dist/
+/build/
+/out/
+
+# --- Локальные настройки и секреты (никогда не коммить) ---
+tools/local.json
+*.env
+secrets.*
+credentials.*
+
+# --- Резервные копии и «страховочные» файлы ---
+*.backup
+*.back
+*_backup
+*_back
+
+# --- Макеты, картинки, тяжёлые файлы (лучше Git LFS) ---
+# Раскомментируйте, если не используете LFS и хотите просто игнорировать
+# /src/files/
+# *.png
+# *.jpg
+# *.bmp
+# *.pdf
+
+# --- Тесты и временные данные (если есть отдельные папки) ---
+/tests/data/
+/tests/temp/
