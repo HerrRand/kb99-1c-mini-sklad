@@ -1,0 +1,103 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<MetaDataObject xmlns="http://v8.1c.ru/8.3/MDClasses" xmlns:app="http://v8.1c.ru/8.2/managed-application/core" xmlns:cfg="http://v8.1c.ru/8.1/data/enterprise/current-config" xmlns:cmi="http://v8.1c.ru/8.2/managed-application/cmi" xmlns:ent="http://v8.1c.ru/8.1/data/enterprise" xmlns:lf="http://v8.1c.ru/8.2/managed-application/logform" xmlns:style="http://v8.1c.ru/8.1/data/ui/style" xmlns:sys="http://v8.1c.ru/8.1/data/ui/fonts/system" xmlns:v8="http://v8.1c.ru/8.1/data/core" xmlns:v8ui="http://v8.1c.ru/8.1/data/ui" xmlns:web="http://v8.1c.ru/8.1/data/ui/colors/web" xmlns:win="http://v8.1c.ru/8.1/data/ui/colors/windows" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xpr="http://v8.1c.ru/8.3/xcf/predef" xmlns:xr="http://v8.1c.ru/8.3/xcf/readable" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="2.20">
+	<Enum uuid="b58534d7-e4ab-4772-8b35-2e9a8582c295">
+		<InternalInfo>
+			<xr:GeneratedType name="EnumRef.СтавкаНДС" category="Ref">
+				<xr:TypeId>0744fd69-be01-406d-9a41-883155347d14</xr:TypeId>
+				<xr:ValueId>ece64e09-1e62-4814-b8da-915c6f581c54</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="EnumManager.СтавкаНДС" category="Manager">
+				<xr:TypeId>e946096c-b662-463d-bec2-8a599015e38d</xr:TypeId>
+				<xr:ValueId>d3a2e3b6-4341-4ec5-b889-6f173177eb63</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="EnumList.СтавкаНДС" category="List">
+				<xr:TypeId>ca8c4683-92f5-4547-a8e4-65885cc16a1d</xr:TypeId>
+				<xr:ValueId>0d5918ba-a1ac-4090-bd44-9e781cbad43c</xr:ValueId>
+			</xr:GeneratedType>
+		</InternalInfo>
+		<Properties>
+			<Name>СтавкаНДС</Name>
+			<Synonym>
+				<v8:item>
+					<v8:lang>ru</v8:lang>
+					<v8:content>Ставка НДС</v8:content>
+				</v8:item>
+			</Synonym>
+			<Comment/>
+			<UseStandardCommands>false</UseStandardCommands>
+			<Characteristics/>
+			<QuickChoice>true</QuickChoice>
+			<ChoiceMode>BothWays</ChoiceMode>
+			<DefaultListForm/>
+			<DefaultChoiceForm/>
+			<AuxiliaryListForm/>
+			<AuxiliaryChoiceForm/>
+			<ListPresentation/>
+			<ExtendedListPresentation/>
+			<Explanation/>
+			<ChoiceHistoryOnInput>Auto</ChoiceHistoryOnInput>
+		</Properties>
+		<ChildObjects>
+			<EnumValue uuid="0e1f6380-ff38-4999-82ba-eb038bec9d9b">
+				<Properties>
+					<Name>БезНДС</Name>
+					<Synonym>
+						<v8:item>
+							<v8:lang>ru</v8:lang>
+							<v8:content>Без НДС</v8:content>
+						</v8:item>
+					</Synonym>
+					<Comment/>
+				</Properties>
+			</EnumValue>
+			<EnumValue uuid="63c2a312-8717-4750-a528-d8f2977b1328">
+				<Properties>
+					<Name>Пять</Name>
+					<Synonym>
+						<v8:item>
+							<v8:lang>ru</v8:lang>
+							<v8:content>5</v8:content>
+						</v8:item>
+					</Synonym>
+					<Comment/>
+				</Properties>
+			</EnumValue>
+			<EnumValue uuid="72772963-ea97-43f3-baf9-920fa4483de2">
+				<Properties>
+					<Name>Семь</Name>
+					<Synonym>
+						<v8:item>
+							<v8:lang>ru</v8:lang>
+							<v8:content>7</v8:content>
+						</v8:item>
+					</Synonym>
+					<Comment/>
+				</Properties>
+			</EnumValue>
+			<EnumValue uuid="6bf02bbc-a168-48d5-aaf1-a3937c7cd113">
+				<Properties>
+					<Name>Десять</Name>
+					<Synonym>
+						<v8:item>
+							<v8:lang>ru</v8:lang>
+							<v8:content>10</v8:content>
+						</v8:item>
+					</Synonym>
+					<Comment/>
+				</Properties>
+			</EnumValue>
+			<EnumValue uuid="dff59bd3-fbd4-49e0-abd6-1211fb9942fb">
+				<Properties>
+					<Name>ДвадцатьДва</Name>
+					<Synonym>
+						<v8:item>
+							<v8:lang>ru</v8:lang>
+							<v8:content>22</v8:content>
+						</v8:item>
+					</Synonym>
+					<Comment/>
+				</Properties>
+			</EnumValue>
+		</ChildObjects>
+	</Enum>
+</MetaDataObject>

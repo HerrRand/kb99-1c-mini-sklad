@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<MetaDataObject xmlns="http://v8.1c.ru/8.3/MDClasses" xmlns:app="http://v8.1c.ru/8.2/managed-application/core" xmlns:cfg="http://v8.1c.ru/8.1/data/enterprise/current-config" xmlns:cmi="http://v8.1c.ru/8.2/managed-application/cmi" xmlns:ent="http://v8.1c.ru/8.1/data/enterprise" xmlns:lf="http://v8.1c.ru/8.2/managed-application/logform" xmlns:style="http://v8.1c.ru/8.1/data/ui/style" xmlns:sys="http://v8.1c.ru/8.1/data/ui/fonts/system" xmlns:v8="http://v8.1c.ru/8.1/data/core" xmlns:v8ui="http://v8.1c.ru/8.1/data/ui" xmlns:web="http://v8.1c.ru/8.1/data/ui/colors/web" xmlns:win="http://v8.1c.ru/8.1/data/ui/colors/windows" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xpr="http://v8.1c.ru/8.3/xcf/predef" xmlns:xr="http://v8.1c.ru/8.3/xcf/readable" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="2.20">
+	<Report uuid="9ee6fddc-df04-4fdd-865c-f6b46380433b">
+		<InternalInfo>
+			<xr:GeneratedType name="ReportObject.ОборотыПоТоварам" category="Object">
+				<xr:TypeId>83d73c72-67ea-4285-bc9f-72568708914f</xr:TypeId>
+				<xr:ValueId>fb39ca1f-5aa8-4a32-9390-665fc87a1cf0</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="ReportManager.ОборотыПоТоварам" category="Manager">
+				<xr:TypeId>c38ee6c3-2dca-4f6b-aa8e-c884a0c9cb11</xr:TypeId>
+				<xr:ValueId>039e1c03-b6d2-4699-96d6-ba548c672f26</xr:ValueId>
+			</xr:GeneratedType>
+		</InternalInfo>
+		<Properties>
+			<Name>ОборотыПоТоварам</Name>
+			<Synonym>
+				<v8:item>
+					<v8:lang>ru</v8:lang>
+					<v8:content>Обороты по товарам</v8:content>
+				</v8:item>
+			</Synonym>
+			<Comment/>
+			<UseStandardCommands>true</UseStandardCommands>
+			<DefaultForm/>
+			<AuxiliaryForm/>
+			<MainDataCompositionSchema>Report.ОборотыПоТоварам.Template.ОсновнаяСхемаКомпоновкиДанных</MainDataCompositionSchema>
+			<DefaultSettingsForm/>
+			<AuxiliarySettingsForm/>
+			<DefaultVariantForm/>
+			<VariantsStorage/>
+			<SettingsStorage/>
+			<IncludeHelpInContents>false</IncludeHelpInContents>
+			<ExtendedPresentation/>
+			<Explanation/>
+		</Properties>
+		<ChildObjects>
+			<Template>ОсновнаяСхемаКомпоновкиДанных</Template>
+		</ChildObjects>
+	</Report>
+</MetaDataObject>
