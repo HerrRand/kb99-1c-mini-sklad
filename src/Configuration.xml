@@ -252,6 +252,7 @@
 			<Language>Русский</Language>
 			<Subsystem>МиниСклад</Subsystem>
 			<Subsystem>НСИ</Subsystem>
+			<CommonModule>ПересчетСуммыДокументов</CommonModule>
 			<Catalog>Товары</Catalog>
 			<Catalog>Контрагенты</Catalog>
 			<Catalog>Склады</Catalog>
@@ -259,6 +260,7 @@
 			<Document>Реализация</Document>
 			<Enum>ТипКонтрагента</Enum>
 			<Enum>СтавкаНДС</Enum>
+			<Report>ОборотыПоТоварам</Report>
 			<AccumulationRegister>ОстаткиТоваров</AccumulationRegister>
 		</ChildObjects>
 	</Configuration>
