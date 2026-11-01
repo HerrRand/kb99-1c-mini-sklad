@@ -477,7 +477,7 @@
 		</area>
 	</namedItem>
 	<namedItem xsi:type="NamedItemCells">
-		<name>Подвал</name>
+		<name>СтрокаТаблицы</name>
 		<area>
 			<type>Rows</type>
 			<beginRow>8</beginRow>

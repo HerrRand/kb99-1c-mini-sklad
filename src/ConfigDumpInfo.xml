@@ -39,10 +39,10 @@
 			<Metadata name="Document.Поступление.TabularSection.Товары.Attribute.Товар" id="99deb250-1efe-4744-896d-fe04b5a120de"/>
 			<Metadata name="Document.Поступление.TabularSection.Товары.Attribute.Сумма" id="c2c8411a-4f00-4d13-afd2-7640ae4f811a"/>
 		</Metadata>
-		<Metadata name="Document.Поступление.Form.ФормаДокумента" id="c12af171-9613-4ecd-8535-87c4d28230ff" configVersion="67d3e6d58afae142baa355c8d2b64a3200000000"/>
-		<Metadata name="Document.Поступление.Form.ФормаДокумента.Form" id="c12af171-9613-4ecd-8535-87c4d28230ff.0" configVersion="4252505de7a1364ab15e909b2ab8a01400000000"/>
+		<Metadata name="Document.Поступление.Form.ФормаДокумента" id="c12af171-9613-4ecd-8535-87c4d28230ff" configVersion="446d852a7d87e440b0c8e9cc1bfd4a7d00000000"/>
+		<Metadata name="Document.Поступление.Form.ФормаДокумента.Form" id="c12af171-9613-4ecd-8535-87c4d28230ff.0" configVersion="19b3ece05822934d898f3d49a615fba600000000"/>
 		<Metadata name="Document.Поступление.ObjectModule" id="31a70a3c-47c2-4d70-b322-bd4264bb0c1f.0" configVersion="0a389cd419aa754b8d8ea91372d154dd00000000"/>
-		<Metadata name="Document.Реализация" id="2ca1a590-2ad9-4aba-837d-4620948405ce" configVersion="9010364da82fe744bd468bfb6f83b3b500000000">
+		<Metadata name="Document.Реализация" id="2ca1a590-2ad9-4aba-837d-4620948405ce" configVersion="b4c95bf4dbf2ab4b92281ed9722247ed00000000">
 			<Metadata name="Document.Реализация.Attribute.Склад" id="0477dcee-fc90-4103-904d-a573fe3d8b39"/>
 			<Metadata name="Document.Реализация.TabularSection.Товары" id="1de46d13-f1d4-4521-9d56-4b520e8703e0"/>
 			<Metadata name="Document.Реализация.Command.Печать" id="318eca0e-2b9a-409a-b550-168b5560c5c2"/>
@@ -53,12 +53,12 @@
 			<Metadata name="Document.Реализация.Attribute.Покупатель" id="eca977b3-578e-45ad-9e20-4c5d8d7c851b"/>
 		</Metadata>
 		<Metadata name="Document.Реализация.Command.Печать.CommandModule" id="318eca0e-2b9a-409a-b550-168b5560c5c2.2" configVersion="7c2d66aa70883748877d3006e9d296dd00000000"/>
-		<Metadata name="Document.Реализация.Form.ФормаДокумента" id="5db803f7-9a5e-445c-8f95-c15297cce25d" configVersion="a9c074f2472f4140b273b3fbb82ad29900000000"/>
-		<Metadata name="Document.Реализация.Form.ФормаДокумента.Form" id="5db803f7-9a5e-445c-8f95-c15297cce25d.0" configVersion="c8c46e3f7d76d043b05763bf6f4e730900000000"/>
-		<Metadata name="Document.Реализация.ManagerModule" id="2ca1a590-2ad9-4aba-837d-4620948405ce.2" configVersion="0ae07807b9ea834aaebaddbc2eeb3bc900000000"/>
+		<Metadata name="Document.Реализация.Form.ФормаДокумента" id="5db803f7-9a5e-445c-8f95-c15297cce25d" configVersion="ac5785882786f248a55894bf9fe3366600000000"/>
+		<Metadata name="Document.Реализация.Form.ФормаДокумента.Form" id="5db803f7-9a5e-445c-8f95-c15297cce25d.0" configVersion="55e6f84974b5bd41a673f7b36fef1e7f00000000"/>
+		<Metadata name="Document.Реализация.ManagerModule" id="2ca1a590-2ad9-4aba-837d-4620948405ce.2" configVersion="023d482d988cd44091e0b7d30453b72400000000"/>
 		<Metadata name="Document.Реализация.ObjectModule" id="2ca1a590-2ad9-4aba-837d-4620948405ce.0" configVersion="5eb0aca47a6f6b468c5857480e8f4b0200000000"/>
-		<Metadata name="Document.Реализация.Template.РеализацияТоваров" id="b96c78d8-d310-4c54-86fd-c0a75d55f1c3" configVersion="8144caca707dcb4aa5136f94abd27df700000000"/>
-		<Metadata name="Document.Реализация.Template.РеализацияТоваров.Template" id="b96c78d8-d310-4c54-86fd-c0a75d55f1c3.0" configVersion="98de779a7739e440bc22fbece6416e8600000000"/>
+		<Metadata name="Document.Реализация.Template.РеализацияТоваров" id="b96c78d8-d310-4c54-86fd-c0a75d55f1c3" configVersion="9d55d50d270b05478dd896a92b98042b00000000"/>
+		<Metadata name="Document.Реализация.Template.РеализацияТоваров.Template" id="b96c78d8-d310-4c54-86fd-c0a75d55f1c3.0" configVersion="6b63f79f0e1f9c4089779813c416120f00000000"/>
 		<Metadata name="Enum.СтавкаНДС" id="b58534d7-e4ab-4772-8b35-2e9a8582c295" configVersion="f7663d477be4f4499903cc342b40850100000000">
 			<Metadata name="Enum.СтавкаНДС.EnumValue.БезНДС" id="0e1f6380-ff38-4999-82ba-eb038bec9d9b"/>
 			<Metadata name="Enum.СтавкаНДС.EnumValue.Пять" id="63c2a312-8717-4750-a528-d8f2977b1328"/>
