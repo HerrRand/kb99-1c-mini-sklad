@@ -253,6 +253,7 @@
 			<Subsystem>МиниСклад</Subsystem>
 			<Subsystem>НСИ</Subsystem>
 			<CommonModule>ПересчетСуммыДокументов</CommonModule>
+			<CommonModule>НДСКлиент</CommonModule>
 			<Catalog>Товары</Catalog>
 			<Catalog>Контрагенты</Catalog>
 			<Catalog>Склады</Catalog>
