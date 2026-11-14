@@ -252,8 +252,11 @@
 			<Language>Русский</Language>
 			<Subsystem>МиниСклад</Subsystem>
 			<Subsystem>НСИ</Subsystem>
+			<StyleItem>ФонНетТовара</StyleItem>
+			<StyleItem>ФонЕстьТовар</StyleItem>
 			<CommonModule>ПересчетСуммыДокументов</CommonModule>
 			<CommonModule>НДСКлиент</CommonModule>
+			<CommonForm>ФормаПодбораТоваров</CommonForm>
 			<Catalog>Товары</Catalog>
 			<Catalog>Контрагенты</Catalog>
 			<Catalog>Склады</Catalog>

@@ -54,7 +54,15 @@
 			<DataPath>Объект.Товары</DataPath>
 			<RowFilter xsi:nil="true"/>
 			<ContextMenu name="ТоварыКонтекстноеМеню" id="14"/>
-			<AutoCommandBar name="ТоварыКоманднаяПанель" id="15"/>
+			<AutoCommandBar name="ТоварыКоманднаяПанель" id="15">
+				<ChildItems>
+					<Button name="ТоварыПодборТоваров" id="45">
+						<Type>CommandBarButton</Type>
+						<CommandName>Form.Command.ПодборТоваров</CommandName>
+						<ExtendedTooltip name="ТоварыПодборТоваровРасширеннаяПодсказка" id="46"/>
+					</Button>
+				</ChildItems>
+			</AutoCommandBar>
 			<ExtendedTooltip name="ТоварыРасширеннаяПодсказка" id="16"/>
 			<SearchStringAddition name="ТоварыСтрокаПоиска" id="17">
 				<AdditionSource>
@@ -166,6 +174,21 @@
 				</v8:item>
 			</ToolTip>
 			<Action>ВсеТоварыСОстатками</Action>
+		</Command>
+		<Command name="ПодборТоваров" id="3">
+			<Title>
+				<v8:item>
+					<v8:lang>ru</v8:lang>
+					<v8:content>Подбор товаров</v8:content>
+				</v8:item>
+			</Title>
+			<ToolTip>
+				<v8:item>
+					<v8:lang>ru</v8:lang>
+					<v8:content>Подбор товаров</v8:content>
+				</v8:item>
+			</ToolTip>
+			<Action>ПодборТоваров</Action>
 		</Command>
 	</Commands>
 </Form>
