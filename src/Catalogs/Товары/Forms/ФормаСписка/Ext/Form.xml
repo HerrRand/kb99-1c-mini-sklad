@@ -88,17 +88,11 @@
 					<DataPath>Список.СтавкаНДС</DataPath>
 					<ContextMenu name="СтавкаНДСКонтекстноеМеню" id="26"/>
 					<ExtendedTooltip name="СтавкаНДСРасширеннаяПодсказка" id="27"/>
-					<Events>
-						<Event name="OnChange">СтавкаНДСПриИзменении</Event>
-					</Events>
 				</LabelField>
 				<LabelField name="ЦенаБезНДС" id="28">
 					<DataPath>Список.ЦенаБезНДС</DataPath>
 					<ContextMenu name="ЦенаБезНДСКонтекстноеМеню" id="29"/>
 					<ExtendedTooltip name="ЦенаБезНДСРасширеннаяПодсказка" id="30"/>
-					<Events>
-						<Event name="OnChange">ЦенаБезНДСПриИзменении</Event>
-					</Events>
 				</LabelField>
 				<LabelField name="ЦенаСНДС" id="31">
 					<DataPath>Список.ЦенаСНДС</DataPath>
